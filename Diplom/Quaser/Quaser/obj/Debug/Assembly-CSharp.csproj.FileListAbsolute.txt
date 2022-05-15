@@ -1,0 +1,2 @@
+C:\Users\maksi\Desktop\Штучки\ДиР\Diplom\Diplom\Quaser\Quaser\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\maksi\Desktop\Штучки\ДиР\Diplom\Diplom\Quaser\Quaser\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
